@@ -1,0 +1,4 @@
+x,y,z=map(int,input().split())
+t=z-y
+p=t/x
+print(int(p))
